@@ -1,0 +1,15 @@
+region: us-west-1
+
+function_name: GetMenu
+handler: service.handler
+role: lambda
+description: Get Menu
+
+# if access key and secret are left blank, boto will use the credentials
+# defined in the [default] section of ~/.aws/credentials.
+aws_access_key_id: AKIAJOMJC52OL6K3R4WA
+aws_secret_access_key: 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
+
+# dist_directory: dist
+# timeout: 15
+# memory_size: 512

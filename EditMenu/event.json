@@ -1,0 +1,8 @@
+{
+    "menu_id": "UUID-generated-by-client",
+    "selection": [ 
+        "Cheese",
+        "Pepperoni",
+        "Vegetable"
+    ]   
+}
